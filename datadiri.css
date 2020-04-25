@@ -1,0 +1,29 @@
+body{
+	font-family: sans-serif;
+	background-color: #dff9fb;
+
+}
+
+.fromlogin{
+	box-sizing: border-box;
+	width: 100px;
+	padding: 10px;
+	font-size: 11px;
+	margin-bottom: 10px;
+}
+
+.kotaklogin{
+	width: 350px;
+	background: white;
+	margin: 80px auto;
+	padding: 30pX 20pX;
+}
+
+.login{
+	background: #ff7979;
+	color: white;
+	font-size: 12px;
+	width: 94%;
+	border:none;
+	border-radius: 2px;
+	padding: 10px 20px; 
